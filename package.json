@@ -1,6 +1,6 @@
 {
   "name": "datetime-iso",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert Date to ISO-8601 string (YYYY-MM-DDTHH:mm:ss.SSS) - local or UTC",
   "main": "index.js",
   "scripts": {
